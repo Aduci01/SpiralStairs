@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralStairs.CSharp", "SpiralStairs.CSharp.csproj", "{B96DC419-6314-AA35-91DB-FA744EC67C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralStairs.CSharp.Editor", "SpiralStairs.CSharp.Editor.csproj", "{9EB205AC-7783-89EE-1E1B-6D2D1D993568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96DC419-6314-AA35-91DB-FA744EC67C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96DC419-6314-AA35-91DB-FA744EC67C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96DC419-6314-AA35-91DB-FA744EC67C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96DC419-6314-AA35-91DB-FA744EC67C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB205AC-7783-89EE-1E1B-6D2D1D993568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB205AC-7783-89EE-1E1B-6D2D1D993568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB205AC-7783-89EE-1E1B-6D2D1D993568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB205AC-7783-89EE-1E1B-6D2D1D993568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
